@@ -24,4 +24,3 @@ UserController(app);
 TuitsController(app);
 
 app.listen(process.env.PORT || 4000);
-DB_CONNECTION_STRING=mongodb+srv://pranith_rao:operamini8688@cluster0.jzr7i2q.mongodb.net/?retryWrites=true&w=majority
